@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: kmriiwa_optimisation
+    relative_path: kmr_iiwa_urdf/urdf/kmr_iiwa_carlos_withprobe.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/kmr.srdf
+  CONFIG:
+    author_name: AP
+    author_email: poolearj@gmail.com
+    generated_timestamp: 1696519118

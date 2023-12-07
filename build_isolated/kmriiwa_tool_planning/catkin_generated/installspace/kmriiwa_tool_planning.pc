@@ -1,0 +1,8 @@
+prefix=/home/arjp/KMR_SET/kmr_sim/install_isolated
+
+Name: kmriiwa_tool_planning
+Description: Description of kmriiwa_tool_planning
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/arjp/KMR_SET/kmr_sim/devel_isolated/iiwa_ros
+
+Name: iiwa_ros
+Description: Description of iiwa_ros
+Version: 1.4.0
+Cflags: -I/home/arjp/KMR_SET/kmr_sim/src/iiwa_stack/iiwa_ros/include
+Libs: -L${prefix}/lib -liiwa_ros
+Requires: iiwa_msgs roscpp

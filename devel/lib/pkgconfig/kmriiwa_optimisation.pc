@@ -1,0 +1,8 @@
+prefix=/home/arjp/KMR_SET/kmr_sim/devel
+
+Name: kmriiwa_optimisation
+Description: Description of kmriiwa_optimisation
+Version: 0.0.0
+Cflags: -I/home/arjp/KMR_SET/kmr_sim/src/kmriiwa_optimisation/include
+Libs: -L${prefix}/lib -lkmr_iiwa -lmessage_runtime -lgeometry_msgs -lstd_msgs
+Requires: 

@@ -1,0 +1,2 @@
+iiwa_stack/iiwa_control:iiwa_stack/iiwa_description:iiwa_stack/iiwa_gazebo:iiwa_stack/iiwa_hw:iiwa_stack/iiwa_moveit:iiwa_stack/iiwa_msgs:iiwa_stack/iiwa_ros:kmriiwa_optimisation:kmriiwa_tool_planning
+-DPYTHON_EXECUTABLE=/usr/bin/python3 -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/arjp/KMR_SET/kmr_sim/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/arjp/KMR_SET/kmr_sim/install_isolated

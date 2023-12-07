@@ -1,0 +1,6 @@
+velocity_control:
+  type: velocity_controllers/JointTrajectoryController
+  joints:
+    []
+  gains:
+    {}
